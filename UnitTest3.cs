@@ -9,7 +9,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod3()
         {
-            Console.WriteLine("This is my third test - post commit check");
+            Console.WriteLine("This is is my third test - post commit check");
         }
     }
 }
